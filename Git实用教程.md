@@ -1,14 +1,16 @@
-规划
+**规划**
 
 全局账户 使用我自己的git账户
 
 在公司项目的目录里，配置公司项目给我的账户
 
+-----
 
 
-配置git账户
 
-```shell
+**配置git账户**
+
+```sehll
 # 个人账户
 git config --global user.name "liudelantu"
 git config --global user.email "liudelantu@163.com"
@@ -19,9 +21,11 @@ git config user.name "Company Name"
 git config user.email "company.email@example.com"
 ```
 
+-----
 
 
-生成ssh密钥
+
+**生成ssh密钥**
 
 ```shell
 ssh-keygen -t rsa -b 4096 -C "liudelantu@163.com" -f ~/.ssh/id_rsa_liudelantu
@@ -52,16 +56,18 @@ git clone git@github-company:companyname/repository.git
 
 ```
 
+-----
 
 
-git操作
+
+**git操作**
 
 ```shell
 git status
 git add <file>
 git commit -m "commit message"
 git log
-git diff
+
 git branch <branch-name>
 git checkout <branch-name>
 git merge <branch-name>
