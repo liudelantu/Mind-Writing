@@ -7,7 +7,7 @@ del word['city']  : 删除
 len(word)         : 键的个数
 cmp(dict1, dict2) : 比较两个字典
 word.clear()      : 清空字典
-word.items()      : 以列表形式返回可遍历的(key, value)元组类型数组
+word.items()      : 返回(key, value)
 word.keys()       : 所有的 key
 word.values()     : 所有的 value
 word.has_key(key) : 如果键 key 在字典中则返回 True
