@@ -46,11 +46,34 @@ def fun(num):
 
 **题目**：编写一个函数，计算列表中所有数字的总和。
 
+```python
+def fun(list_data):
+    return sum(list_data)
+```
+
+
+
 **题目**：编写一个函数，返回列表中的最大值。
+
+```python
+def fun(list_data):
+    return max(list_data)
+```
+
+
 
 **题目**：编写一个函数，接受一个字符串并返回其反转结果。
 
+```python
+def fun(s):
+    return s[::-1]
+```
+
+
+
 **题目**：编写一个函数，统计一个字符串中每个字符出现的次数。
+
+
 
 **题目**：编写一个函数，返回斐波那契数列的前 n 个数字。
 
