@@ -7,9 +7,8 @@
 下载VMware
 
 <video width="" height="" controls>
-    <source src="./VMware安装centos7.assets/下载VMware.mp4" type="video/mp4">
+    <source src="./部署linux主机/下载VMware.mp4" type="video/mp4">
 </video>
-
 
 
 ## CentOS 7.9
@@ -18,7 +17,7 @@ CentOS-7-x86_64-DVD-2009.iso
 
 ```html
 <video width="" height="" controls>
-    <source src="./VMware安装centos7.assets/启动虚拟机.mp4" type="video/mp4">
+    <source src="./部署linux主机/启动虚拟机.mp4" type="video/mp4">
 </video>
 ```
 
@@ -27,13 +26,13 @@ CentOS-7-x86_64-DVD-2009.iso
 # 创建虚拟机
 
 <video width="" height="" controls>
-    <source src="./VMware安装centos7.assets/创建虚拟机.mp4" type="video/mp4">
+    <source src="./部署linux主机/创建虚拟机.mp4" type="video/mp4">
 </video>
 
 # 启动虚拟机
 
 <video width="" height="" controls>
-    <source src="./VMware安装centos7.assets/启动虚拟机.mp4" type="video/mp4">
+    <source src="./部署linux主机/启动虚拟机.mp4" type="video/mp4">
 </video>
 # 配置centos7网络
 
@@ -138,11 +137,11 @@ systemctl disable firewalld
 # 配置VMware网络
 
 <video width="" height="" controls>
-    <source src="./VMware安装centos7.assets/配置VMware网络.mp4" type="video/mp4">
+    <source src="./部署linux主机/配置VMware网络.mp4" type="video/mp4">
 </video>
 # 远程连接
 
-![image-20240727082402823](./VMware安装centos7.assets/image-20240727082402823.png)
+![image-20240727082402823](./部署linux主机/image-20240727082402823.png)
 
 
 
@@ -202,7 +201,7 @@ yum clean all
 yum makecache
 ```
 
-![image-20240727084538099](./VMware安装centos7.assets/image-20240727084538099.png)
+![image-20240727084538099](./部署linux主机/image-20240727084538099.png)
 
 
 
@@ -213,7 +212,7 @@ yum makecache
 yum repolist
 ```
 
-![image-20240727084603380](./VMware安装centos7.assets/image-20240727084603380.png)
+![image-20240727084603380](./部署linux主机/image-20240727084603380.png)
 
 
 
