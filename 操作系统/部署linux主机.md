@@ -2,12 +2,12 @@
 
 ## VMware
 
-![image-20240726100921002](部署linux主机/image-20240726100921002.png)
+![image-20240726100921002](部署linux主机.pic/image-20240726100921002.png)
 
 下载VMware
 
 <video width="" height="" controls>
-    <source src="./部署linux主机/下载VMware.mp4" type="video/mp4">
+    <source src="./部署linux主机.pic/下载VMware.mp4" type="video/mp4">
 </video>
 
 
@@ -17,7 +17,7 @@ CentOS-7-x86_64-DVD-2009.iso
 
 ```html
 <video width="" height="" controls>
-    <source src="./部署linux主机/启动虚拟机.mp4" type="video/mp4">
+    <source src="./部署linux主机.pic/启动虚拟机.mp4" type="video/mp4">
 </video>
 ```
 
@@ -26,13 +26,12 @@ CentOS-7-x86_64-DVD-2009.iso
 # 创建虚拟机
 
 <video width="" height="" controls>
-    <source src="./部署linux主机/创建虚拟机.mp4" type="video/mp4">
+    <source src="./部署linux主机.pic/创建虚拟机.mp4" type="video/mp4">
 </video>
-
 # 启动虚拟机
 
 <video width="" height="" controls>
-    <source src="./部署linux主机/启动虚拟机.mp4" type="video/mp4">
+    <source src="./部署linux主机.pic/启动虚拟机.mp4" type="video/mp4">
 </video>
 # 配置centos7网络
 
@@ -130,18 +129,18 @@ systemctl stop firewalld
 systemctl disable firewalld   
 ```
 
-![image-20240726110011677](./部署linux主机//image-20240726110011677.png)
+![image-20240726110011677](./部署linux主机.pic//image-20240726110011677.png)
 
 
 
 # 配置VMware网络
 
 <video width="" height="" controls>
-    <source src="./部署linux主机/配置VMware网络.mp4" type="video/mp4">
+    <source src="./部署linux主机.pic/配置VMware网络.mp4" type="video/mp4">
 </video>
 # 远程连接
 
-![image-20240727082402823](./部署linux主机/image-20240727082402823.png)
+![image-20240727082402823](./部署linux主机.pic/image-20240727082402823.png)
 
 
 
@@ -201,7 +200,7 @@ yum clean all
 yum makecache
 ```
 
-![image-20240727084538099](./部署linux主机/image-20240727084538099.png)
+![image-20240727084538099](./部署linux主机.pic/image-20240727084538099.png)
 
 
 
@@ -212,7 +211,7 @@ yum makecache
 yum repolist
 ```
 
-![image-20240727084603380](./部署linux主机/image-20240727084603380.png)
+![image-20240727084603380](./部署linux主机.pic/image-20240727084603380.png)
 
 
 
