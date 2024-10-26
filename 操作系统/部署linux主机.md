@@ -2,7 +2,7 @@
 
 ## VMware
 
-![image-20240726100921002](VMware安装centos7.assets/image-20240726100921002.png)
+![image-20240726100921002](部署linux主机/image-20240726100921002.png)
 
 下载VMware
 
@@ -130,7 +130,7 @@ systemctl stop firewalld
 systemctl disable firewalld   
 ```
 
-![image-20240726110011677](VMware安装centos7.assets/image-20240726110011677.png)
+![image-20240726110011677](./部署linux主机//image-20240726110011677.png)
 
 
 
